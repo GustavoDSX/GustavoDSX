@@ -49,38 +49,4 @@
 
 ###
 
-<p align="left"></p>
 
-###
-
-###
-
-<img src="https://raw.githubusercontent.com/GustavoDSX/GustavoDSX/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
