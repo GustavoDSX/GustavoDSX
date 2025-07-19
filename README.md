@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">Atualmente, curso o 3° ano do Ensino Médio Técnico em Informática no IFCE. Atuo como programador júnior com experiência nas seguintes linguagens:<br><br> Python (preferência principal) | Lógica de Programação | Programação Orientada a Objetos (POO)  <br> SQL | Banco de Dados  <br> HTML | CSS</p>
+<p align="left">Atualmente, curso o 3° ano do Ensino Médio Técnico em Informática no IFCE. Atuo como programador júnior com experiência básica nas seguintes linguagens:<br><br> Python (preferência principal) | Lógica de Programação | Programação Orientada a Objetos (POO)  <br> SQL | Banco de Dados  <br> HTML | CSS</p>
 
 ###
 
@@ -46,7 +46,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
-
 ###
 
 
+<img src="https://raw.githubusercontent.com/GustavoDSX/GustavoDSX/output/snake.svg" alt="Snake animation" />
+
+###
