@@ -1,9 +1,4 @@
 
-
-Readme.MD:
-<img src="https://raw.githubusercontent.com/GustavoDSX/gitrepo/output/snake.svg" alt="Snake animation" />
-
-Sbake.yml:
 name: Generate snake animation
 
 on:
