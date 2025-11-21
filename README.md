@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">Atualmente, curso o 3° ano do Ensino Médio Técnico em Informática no IFCE. Atuo com programação desde o início do meu ensino médio (2023) e tenho experiência básica nas seguintes linguagens:<br><br> Python (preferência principal) | Lógica de Programação | Programação Orientada a Objetos (POO)  <br> SQL | Banco de Dados  <br> HTML | CSS</p>
+<p align="left">Atualmente, curso o 3° ano do Ensino Médio Técnico em Informática no IFCE. Atuo com programação desde o início do meu ensino médio (2023) e tenho experiência básica nas seguintes linguagens:<br><br> Python | Lógica de Programação | Programação Orientada a Objetos (POO)  <br> SQL | Banco de Dados  <br> HTML | CSS (preferência principal) </p>
 
 ###
 
